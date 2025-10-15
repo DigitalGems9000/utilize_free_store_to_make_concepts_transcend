@@ -4,3 +4,6 @@ let me know if you use this in production! awesome little way to speed up those 
 ![](utilize_free_store_concepts.jpg)
 
 Tutorial Video: https://youtu.be/QAgj9GlAHgk
+
+My programming tutorial playlist (sort by new):
+https://www.youtube.com/playlist?list=PLiVT2uIHOLNyEEyzLdSqTaUefSGn_LhJe
